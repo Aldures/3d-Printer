@@ -1,6 +1,6 @@
 This repository will contain all changes made to my Tronxy X5SA Pro.
 
-The x5sa pro is a really cheap core-xy 3d printer. 
+The x5sa pro is a really cheap core-xy 3d printer which is really not that bad on its own. This printer can be improved by changing and improving the parts that were included with the kit.
 
 There are many things which need to be upraded in order to make this a better printer. I will list all changes I have made to my printer as well as all cad/stl files I made to improve printing.
 
