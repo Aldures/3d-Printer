@@ -7,6 +7,7 @@ extra parts needed to improve your printer
 |1| btt octopus v1.1 | You need a board with no less than 5 drivers. You need atleast 2 drivers for Z-axis|
 |1| tmc2209 drivers | I like the ability to use sensorless endstops. |
 |1| 24v Power supply | The power supply shipped with the X5SA Pro is not really good. |
+|1| Raspberry Pi 4 | This is used for Klipper |
 
 
 ## Print head / Extruder
