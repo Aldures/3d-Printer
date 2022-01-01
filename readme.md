@@ -13,7 +13,7 @@ There are many things which need to be upraded in order to make this a better pr
 |inducter auto leveling|
 |not real linear rails|
 |cannot drive more than 4 motors main printer board|
-|needed for klipper raspberry pi 4|
+|raspberry pi 4 - needed for klipper |
 |cheap power supply|
 |mosfets/solid state switches are needed for saftey and boards protection|
 |frame re-inforcements are needed to dull vibrations|
