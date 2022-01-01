@@ -2,27 +2,27 @@
 extra parts needed to improve your printer
 
 ## Electronics
-| Parts                           |      Overview                                                                       |
+| Qte | Parts                                   |      Overview                                                                       |
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
-| btt octopus v1.1         | |
-| tmc2209 drivers          | |
+|1|btt octopus v1.1         | |
+|1| tmc2209 drivers          | |
 
 
 ## Print head / Extruder
-| Parts                       |      Overview                                                                       |
+| Qte | Parts                                   |      Overview                                                                       |
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
-| bondtech bmg extruder | |
-| phaetus bms print head | |
-| bltouch v3.1             | |
+|1| bondtech bmg extruder | |
+|1| phaetus bms print head | |
+|1| bltouch v3.1             | |
 
 
 ## Print Bed
-| Parts                             |                      Overview                                                       |
+| Qte | Parts                                   |      Overview                                                                       |
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
-| 8mm 330mmx330mm print bed | |
-| 310x310 magnetic print surface | |
-| 3 x 450mm mng12c linear rails | |
-| 110v 750w 310mmx310mm silicone heat pad | |
+|1| 8mm 330mmx330mm print bed | |
+|1| 310x310 magnetic print surface | |
+|3| 450mm mng12c linear rails | |
+|1| 110v 750w 310mmx310mm silicone heat pad | |
 
 
 
