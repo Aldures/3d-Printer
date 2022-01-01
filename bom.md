@@ -1,20 +1,22 @@
 # X5SA Pro Haardware addons
 extra parts needed to improve your printer
 
-# Electronics
+## Electronics
 | Parts                           |      Overview                                                                       |
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
 | btt octopus v1.1         | |
 | tmc2209 drivers          | |
 
-# Print head / Extruder
+
+## Print head / Extruder
 | Parts                       |      Overview                                                                       |
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
 | bondtech bmg extruder | |
 | phaetus bms print head | |
 | bltouch v3.1             | |
 
-# Print Bed
+
+## Print Bed
 | Parts                             |                      Overview                                                       |
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
 | 8mm 330mmx330mm print bed | |
