@@ -12,7 +12,7 @@ extra parts needed to improve your printer
 | phaetus bms print head | |
 | bltouch v3.1             | |
 
-| Print Bed upgrade                             |      Overview                                                                       |
+| Print Bed upgrade                             |                      Overview                                                       |
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
 | 8mm 330mmx330mm print bed | |
 | 310x310 magnetic print surface | |
