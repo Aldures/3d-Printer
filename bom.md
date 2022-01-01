@@ -4,7 +4,7 @@ extra parts needed to improve your printer
 ## Electronics
 | Qte | Parts                                         |      Overview                                                                       |
 |-----|-----------------------------------------------|-------------------------------------------------------------------------------------|
-|1| btt octopus v1.1 | |
+|1| btt octopus v1.1 | You need a board with no less than 5 drivers. You need atleast 2 drivers for Z-axis|
 |1| tmc2209 drivers | |
 |1| 24v Power supply | The power supply shipped with the X5SA Pro is not really good. |
 
