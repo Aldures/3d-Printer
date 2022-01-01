@@ -1,4 +1,6 @@
-btt octopus v1.1 
+Parts purchased in no given order
+
+btt octopus v1.1
 tmc2209 drivers
 bltouch v3.1
 310x310 magnetic print surface
