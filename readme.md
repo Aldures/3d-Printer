@@ -24,7 +24,7 @@ There are many things which need to be upraded in order to make this a better pr
 |bottom panel to hang eletronics from|
 |no enclosure|
 
-# X5SA Pro Haardware addons
+# mods
 extra parts needed to improve your printer
 
 ## Electronics
