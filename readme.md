@@ -49,7 +49,7 @@ extra parts needed to improve your printer
 ## Print Bed
 | Qte | Parts                                         |      Overview                                                                       |
 |-----|-----------------------------------------------|-------------------------------------------------------------------------------------|
-|1| 8mm mic6 Aluminum 330mm x 330mm print bed | The stock print bed on the X5SA is really thing and mine was not really flat. |
+|1| 8mm mic6 Aluminum 330mm x 330mm print bed | The stock print bed on the X5SA is really thin and mine was not really flat. |
 |1| 310mm x 310mm magnetic print surface | I like flexible steel PEI print surfaces |
 |1| 110v 750w 310mmx310mm silicone heat pad | Since I needed a new heater for print bed I decided to get something that heats fast.|
 |1| solid state switch for 110v heat pad||
