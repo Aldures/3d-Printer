@@ -43,7 +43,7 @@ extra parts needed to improve your printer
 |1| bondtech bmg extruder | I like non cloned extruders, they function better |
 |1| phaetus bms print head | any hot end can be used however I tried this one and was impressed |
 |1| solid state switch for hotend heater ||
-|1| bltouch v3.1 | I do not like intductive probes. This gives you the choice of using a glass top bed. |
+|1| bltouch v3.1 | I do not like intductive probes. This gives you the choice of using any print surface. |
 
 
 ## Print Bed
