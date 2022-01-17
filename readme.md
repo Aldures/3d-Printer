@@ -56,6 +56,39 @@ extra parts needed to improve your printer
 |3| 450mm mgn12c linear rails | I am using the RATRIG trident configuration. It's overkill, but very sweet.|
 
 
+## From ratrig
+| Qte | Parts                                         |      Overview                                                                       |
+|-----|-----------------------------------------------|-------------------------------------------------------------------------------------|
+|1|330x330 cast aluminium build plate||
+|6|dowel pins||
+|3|magnets||
+|3|M5 threaded steel balls||
+
+##For Gantry
+| Qte | Parts                                         |      Overview                                                                       |
+|-----|-----------------------------------------------|-------------------------------------------------------------------------------------|
+|2|460mm 2020 extrusion||
+|1|480mm 2020 extrusion||
+
+##For Z-axis
+| Qte | Parts                                         |      Overview                                                                       |
+|-----|-----------------------------------------------|-------------------------------------------------------------------------------------|
+|1|530mm 2020||
+
+##From Amazon
+| Qte | Parts                                         |      Overview                                                                       |
+|-----|-----------------------------------------------|-------------------------------------------------------------------------------------|
+|3|450mm Tr8x2 Acme Thread, 2mm Pitch, 1 Start, 2mm Lead||
+|3|TR8x2 Acme Anti Backlash Nut Block||
+|3|TR8 couplers||
+
+##Linear rails
+| Qte | Parts                                         |      Overview                                                                       |
+|-----|-----------------------------------------------|-------------------------------------------------------------------------------------|
+|1|400 mgn12c rail hotend x-axis gantry||
+|2|400 mgn12c rail y-axis gantry||
+|3|450 mgn12c rail for z-axis||
+
 
 
 
