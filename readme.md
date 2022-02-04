@@ -1,4 +1,4 @@
-# my Tronxy X5SA Pro
+# Tronxy X5SA Pro to TC-Bot conversion
 
 
 ![Image](https://github.com/Aldures/3d-Printer/blob/main/moded.png?raw=true)
