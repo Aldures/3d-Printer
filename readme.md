@@ -56,7 +56,7 @@ extra parts needed to improve your printer
 |1| 310mm x 310mm magnetic print surface | I like flexible steel PEI print surfaces ||
 |1| 110v 750w 290mmx290mm silicone heat pad | Since I needed a new heater for print bed I decided to get something that heats fast. Bigger will overlap standoffs!!!|
 |1| solid state switch for 110v heat pad||
-|3| 450mm mgn12c linear rails | I am using the RATRIG trident configuration. It's overkill, but very sweet.|
+|3| 450mm mgn12c linear rails | I am using z-axis trident configuration. It's overkill, but very sweet. This mod was inspired by RATRIG but modified to fit an X5SA Pro Frame.|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------
