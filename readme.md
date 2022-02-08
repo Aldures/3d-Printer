@@ -1,7 +1,7 @@
 # Tronxy X5SA Pro to TC-Bot conversion
 
 
-![Image](https://github.com/Aldures/3d-Printer/blob/main/tc-bot.png?raw=true)
+![Image](https://github.com/Aldures/3d-Printer/blob/main/TC_Bot.png?raw=true)
 
 The x5sa pro is a really cheap core-xy 3d printer which is really not that bad on its own. This printer can be improved by changing some parts that were included with the kit. Most parts are clones such as the print head and extruder. This was done to reduce the overall cost of the printer. I really like how they made their linear rails however it makes it more diffcult to use Voron or RatRig print heads without some design changes which most people cannot do on their own. What I have done is have taken what I deem the best of Rat-Rig and VZ-Bot and combined integrated them to my printer. VZ-Bot gantry is good as it and no changes were made. I really like the 3-Stepper z-axis of Rat-Rig however their cad files were made with a 3030 frame in mind and had to be re-cadded to work with my X5SA Pro frame.
 
